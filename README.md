@@ -1,1 +1,1 @@
-# Pong_Pygame
+Reconstrução do jogo Pong usando python com a biblioteca pygame .
